@@ -1,0 +1,85 @@
+
+body{
+    background-color: rgb(240, 57, 57);
+    transition: 2s;
+}
+body:hover{
+    background-color: rgb(255, 0, 157);
+}
+.container{
+    height: 440px;
+    width:500px;
+    background-color: rgb(25, 237, 25);
+    margin-top: 80px;
+    border-radius: 10px;
+    transition: 1s;
+}
+.container:hover{
+    background-color: rgb(54, 54, 247);
+}
+
+.box label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    
+    
+}
+.lab{
+    height: 50px;
+    width: 500px;
+    border: 1px solid black;
+    margin-right: 25px;
+}
+.lab1{
+    height: 50px;
+    width: 500px;
+    border: 1px solid black;
+    margin-right: 25px;
+}
+.lab2{
+    height: 50px;
+    width: 500px;
+    border: 1px solid black;
+    margin-right: 25px;
+}
+.lab3{
+    height: 50px;
+    width: 500px;
+    border: 1px solid black;
+    margin-right: 25px;
+}
+.lab4{
+    height: 50px;
+    width: 500px;
+    border: 1px solid black;
+    margin-right: 25px;
+}
+
+.box input{
+    height:30px;
+    width:290px;
+    border-radius: 5px;
+    background-color: rgb(25, 237, 25);
+    border: 0px;
+}
+button{
+    text-align: center;
+    height: 40px;
+    width: 100px;
+    margin-top: 20px;
+    background-color:yellow ;
+    border-radius: 10px;
+    border: 0px;
+    transition: 1s;
+    font-size: 20px;
+}
+button:hover{
+    background-color: rgb(50, 125, 205);
+}
+.link{
+    
+    color: aliceblue;
+}
+
+
+
